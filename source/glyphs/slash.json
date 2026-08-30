@@ -1,0 +1,84 @@
+{
+"name": "slash",
+"sources": [
+{
+"name": "",
+"layerName": "default",
+"locationBase": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 230,
+"y": 100
+},
+{
+"x": 330,
+"y": 200
+},
+{
+"x": 330,
+"y": 600
+},
+{
+"x": 230,
+"y": 500
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 330,
+"y": 600
+},
+{
+"x": 530,
+"y": 600
+},
+{
+"x": 530,
+"y": 700
+},
+{
+"x": 430,
+"y": 700
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 30,
+"y": 0
+},
+{
+"x": 130,
+"y": 0
+},
+{
+"x": 230,
+"y": 100
+},
+{
+"x": 30,
+"y": 100
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 560
+}
+}
+}
+}

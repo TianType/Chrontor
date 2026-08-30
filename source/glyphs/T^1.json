@@ -1,0 +1,62 @@
+{
+"name": "T",
+"sources": [
+{
+"name": "",
+"layerName": "default",
+"locationBase": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 425,
+"y": 0
+},
+{
+"x": 425,
+"y": 500
+},
+{
+"x": 325,
+"y": 600
+},
+{
+"x": 725,
+"y": 600
+},
+{
+"x": 725,
+"y": 700
+},
+{
+"x": 25,
+"y": 700
+},
+{
+"x": 25,
+"y": 600
+},
+{
+"x": 325,
+"y": 600
+},
+{
+"x": 325,
+"y": 0
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 750
+}
+}
+}
+}

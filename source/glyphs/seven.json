@@ -1,0 +1,54 @@
+{
+"name": "seven",
+"sources": [
+{
+"name": "",
+"layerName": "default",
+"locationBase": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 610,
+"y": 700
+},
+{
+"x": 10,
+"y": 700
+},
+{
+"x": 10,
+"y": 600
+},
+{
+"x": 610,
+"y": 600
+},
+{
+"x": 610,
+"y": 0
+},
+{
+"x": 710,
+"y": 0
+},
+{
+"x": 710,
+"y": 600
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 760
+}
+}
+}
+}

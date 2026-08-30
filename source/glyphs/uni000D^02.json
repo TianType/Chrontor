@@ -1,0 +1,17 @@
+{
+"name": "uni000D",
+"sources": [
+{
+"name": "",
+"layerName": "default",
+"locationBase": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"xAdvance": 250
+}
+}
+}
+}

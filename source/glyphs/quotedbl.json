@@ -1,0 +1,63 @@
+{
+"name": "quotedbl",
+"sources": [
+{
+"name": "",
+"layerName": "default",
+"locationBase": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 140,
+"y": 700
+},
+{
+"x": 40,
+"y": 700
+},
+{
+"x": 40,
+"y": 500
+},
+{
+"x": 140,
+"y": 500
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 340,
+"y": 700
+},
+{
+"x": 240,
+"y": 700
+},
+{
+"x": 240,
+"y": 500
+},
+{
+"x": 340,
+"y": 500
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 380
+}
+}
+}
+}

@@ -1,0 +1,66 @@
+{
+"name": "parenleft",
+"sources": [
+{
+"name": "",
+"layerName": "default",
+"locationBase": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 250,
+"y": 0
+},
+{
+"x": 250,
+"y": 100
+},
+{
+"x": 150,
+"y": 100
+},
+{
+"x": 150,
+"y": 600
+},
+{
+"x": 250,
+"y": 600
+},
+{
+"x": 250,
+"y": 700
+},
+{
+"x": 150,
+"y": 700
+},
+{
+"x": 50,
+"y": 600
+},
+{
+"x": 50,
+"y": 100
+},
+{
+"x": 150,
+"y": 0
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 280
+}
+}
+}
+}

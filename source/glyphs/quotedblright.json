@@ -1,0 +1,63 @@
+{
+"name": "quotedblright",
+"sources": [
+{
+"name": "",
+"layerName": "default",
+"locationBase": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 150,
+"y": 600
+},
+{
+"x": 150,
+"y": 700
+},
+{
+"x": 50,
+"y": 700
+},
+{
+"x": 50,
+"y": 500
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 350,
+"y": 700
+},
+{
+"x": 250,
+"y": 700
+},
+{
+"x": 250,
+"y": 500
+},
+{
+"x": 350,
+"y": 600
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 400
+}
+}
+}
+}

@@ -1,0 +1,50 @@
+{
+"name": "one",
+"sources": [
+{
+"name": "",
+"layerName": "default",
+"locationBase": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 120,
+"y": 700
+},
+{
+"x": 20,
+"y": 600
+},
+{
+"x": 220,
+"y": 600
+},
+{
+"x": 220,
+"y": 0
+},
+{
+"x": 320,
+"y": 0
+},
+{
+"x": 320,
+"y": 700
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 370
+}
+}
+}
+}

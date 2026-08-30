@@ -1,0 +1,63 @@
+{
+"name": "semicolon",
+"sources": [
+{
+"name": "",
+"layerName": "default",
+"locationBase": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 30,
+"y": -100
+},
+{
+"x": 130,
+"y": 0
+},
+{
+"x": 130,
+"y": 100
+},
+{
+"x": 30,
+"y": 100
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 30,
+"y": 400
+},
+{
+"x": 30,
+"y": 300
+},
+{
+"x": 130,
+"y": 300
+},
+{
+"x": 130,
+"y": 400
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 160
+}
+}
+}
+}
