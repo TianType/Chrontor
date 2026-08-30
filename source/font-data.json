@@ -1,0 +1,194 @@
+{
+"fontInfo": {
+"familyName": "Chrontor",
+"versionMajor": 1,
+"copyright": "© 2026 Tianhao Zhang (TianType)",
+"description": "小红书 / rednote ID：1384454605",
+"designer": "Tianhao Zhang (TianType)",
+"designerURL": "小红书 / rednote ID：1384454605",
+"licenseDescription": "SIL Open Font License, Version 1.1",
+"licenseInfoURL": "",
+"vendorID": ""
+},
+"sources": {
+"default": {
+"name": "Regular",
+"lineMetricsHorizontalLayout": {
+"ascender": {
+"value": 750
+},
+"capHeight": {
+"value": 700
+},
+"xHeight": {
+"value": 500
+},
+"descender": {
+"value": -250
+},
+"baseline": {
+"value": 0
+}
+}
+}
+},
+"conditionalSubstitutions": {
+"featureTags": [
+"rvrn"
+],
+"rules": []
+},
+"customData": {
+"com.fontlab.v2.tth": {
+"stems": {
+"100": {
+"horizontal": true,
+"width": 100
+},
+"200": {
+"horizontal": false,
+"width": 200
+}
+},
+"zones": {
+"base": {
+"position": 0,
+"top": false,
+"width": 0
+},
+"dsc": {
+"position": -200,
+"top": false,
+"width": 0
+},
+"fig": {
+"position": 700,
+"top": true,
+"width": 0
+},
+"xhgt": {
+"position": 500,
+"top": true,
+"width": 0
+}
+}
+},
+"public.glyphOrder": [
+".notdef",
+"uni0000",
+"uni000D",
+"space",
+"exclam",
+"numbersign",
+"dollar",
+"percent",
+"ampersand",
+"quotesingle",
+"parenleft",
+"parenright",
+"asterisk",
+"plus",
+"comma",
+"hyphen",
+"period",
+"slash",
+"zero",
+"one",
+"two",
+"three",
+"four",
+"five",
+"six",
+"seven",
+"eight",
+"nine",
+"colon",
+"semicolon",
+"less",
+"equal",
+"greater",
+"question",
+"at",
+"A",
+"B",
+"C",
+"D",
+"E",
+"F",
+"G",
+"H",
+"I",
+"J",
+"K",
+"L",
+"M",
+"N",
+"O",
+"P",
+"Q",
+"R",
+"S",
+"T",
+"U",
+"V",
+"W",
+"X",
+"Y",
+"Z",
+"bracketleft",
+"backslash",
+"bracketright",
+"asciicircum",
+"a",
+"b",
+"c",
+"d",
+"e",
+"f",
+"g",
+"h",
+"i",
+"j",
+"k",
+"l",
+"m",
+"n",
+"o",
+"p",
+"q",
+"r",
+"s",
+"t",
+"u",
+"v",
+"w",
+"x",
+"y",
+"z",
+"bar",
+"asciitilde",
+"cent",
+"sterling",
+"currency",
+"yen",
+"copyright",
+"registered",
+"quoteleft",
+"quoteright",
+"quotedblleft",
+"quotedblright",
+"bullet",
+"guilsinglleft",
+"guilsinglright",
+"trademark",
+"Euro"
+],
+"xyz.fontra.lineMetricsHorizontalLayout.zones": {
+"ascender": 16,
+"baseline": -16,
+"capHeight": 16,
+"descender": -16,
+"xHeight": 16
+}
+}
+}
