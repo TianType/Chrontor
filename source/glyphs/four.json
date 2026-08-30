@@ -1,0 +1,75 @@
+{
+"name": "four",
+"sources": [
+{
+"name": "",
+"layerName": "default",
+"locationBase": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 140,
+"y": 700
+},
+{
+"x": 40,
+"y": 700
+},
+{
+"x": 40,
+"y": 400
+},
+{
+"x": 140,
+"y": 300
+},
+{
+"x": 540,
+"y": 300
+},
+{
+"x": 640,
+"y": 400
+},
+{
+"x": 140,
+"y": 400
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 640,
+"y": 700
+},
+{
+"x": 640,
+"y": 0
+},
+{
+"x": 740,
+"y": 0
+},
+{
+"x": 740,
+"y": 700
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 790
+}
+}
+}
+}

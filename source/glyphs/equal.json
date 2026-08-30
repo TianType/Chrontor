@@ -1,0 +1,63 @@
+{
+"name": "equal",
+"sources": [
+{
+"name": "",
+"layerName": "default",
+"locationBase": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 40,
+"y": 199
+},
+{
+"x": 540,
+"y": 199
+},
+{
+"x": 540,
+"y": 299
+},
+{
+"x": 40,
+"y": 299
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 40,
+"y": 499
+},
+{
+"x": 40,
+"y": 399
+},
+{
+"x": 540,
+"y": 399
+},
+{
+"x": 540,
+"y": 499
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 580
+}
+}
+}
+}

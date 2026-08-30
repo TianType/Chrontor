@@ -1,0 +1,58 @@
+{
+"name": "bracketright",
+"sources": [
+{
+"name": "",
+"layerName": "default",
+"locationBase": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 30,
+"y": 700
+},
+{
+"x": 30,
+"y": 600
+},
+{
+"x": 130,
+"y": 600
+},
+{
+"x": 130,
+"y": 100
+},
+{
+"x": 30,
+"y": 100
+},
+{
+"x": 30,
+"y": 0
+},
+{
+"x": 230,
+"y": 0
+},
+{
+"x": 230,
+"y": 700
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 280
+}
+}
+}
+}

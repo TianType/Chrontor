@@ -1,0 +1,84 @@
+{
+"name": "ellipsis",
+"sources": [
+{
+"name": "",
+"layerName": "default",
+"locationBase": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 30,
+"y": 0
+},
+{
+"x": 130,
+"y": 0
+},
+{
+"x": 130,
+"y": 100
+},
+{
+"x": 30,
+"y": 100
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 230,
+"y": 0
+},
+{
+"x": 330,
+"y": 0
+},
+{
+"x": 330,
+"y": 100
+},
+{
+"x": 230,
+"y": 100
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 430,
+"y": 0
+},
+{
+"x": 530,
+"y": 0
+},
+{
+"x": 530,
+"y": 100
+},
+{
+"x": 430,
+"y": 100
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 560
+}
+}
+}
+}

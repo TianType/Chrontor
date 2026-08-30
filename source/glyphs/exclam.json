@@ -1,0 +1,63 @@
+{
+"name": "exclam",
+"sources": [
+{
+"name": "",
+"layerName": "default",
+"locationBase": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 50,
+"y": 700
+},
+{
+"x": 50,
+"y": 200
+},
+{
+"x": 150,
+"y": 200
+},
+{
+"x": 150,
+"y": 700
+}
+],
+"isClosed": true
+},
+{
+"points": [
+{
+"x": 50,
+"y": 0
+},
+{
+"x": 150,
+"y": 0
+},
+{
+"x": 150,
+"y": 100
+},
+{
+"x": 50,
+"y": 100
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 200
+}
+}
+}
+}

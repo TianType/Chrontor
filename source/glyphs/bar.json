@@ -1,0 +1,42 @@
+{
+"name": "bar",
+"sources": [
+{
+"name": "",
+"layerName": "default",
+"locationBase": "default"
+}
+],
+"layers": {
+"default": {
+"glyph": {
+"path": {
+"contours": [
+{
+"points": [
+{
+"x": 150,
+"y": -1
+},
+{
+"x": 150,
+"y": 699
+},
+{
+"x": 50,
+"y": 699
+},
+{
+"x": 50,
+"y": -1
+}
+],
+"isClosed": true
+}
+]
+},
+"xAdvance": 200
+}
+}
+}
+}
