@@ -1,3 +1,4 @@
+<img width="4500" height="6000" alt="集成 其一-23" src="https://github.com/user-attachments/assets/5d051a22-f6e2-4e06-ad76-7296e244562c" />
 # Chrontor
 
 Chrontor is a futuristic modular font built on a grid system, inspired by Wim Crouwel’s New Alphabet from 1967. Constructed entirely from geometric straight lines with all diagonals fixed at a 45‑degree angle, it adheres precisely to its underlying grid, delivering a strong sense of order and minimalist structure. The overall aesthetic is cool‑toned and avant‑garde, with a distinct sci‑fi character.
