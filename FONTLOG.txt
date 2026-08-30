@@ -1,0 +1,20 @@
+FONTLOG for Chrontor
+
+This file provides detailed information on the Chrontor font software.
+
+Chrontor
+Version 1.0 (Initial Release)
+Date: 2026-08-30
+
+Designer: Tianhao Zhang (TianType)
+
+Chrontor is a futuristic modular font built on a grid system, inspired by Wim Crouwel’s New Alphabet from 1967. 
+
+Copyright (c) 2026 Tianhao Zhang (TianType)
+Reserved Font Name: Chrontor
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+
+Release Notes:
+- Initial public open-source release under SIL OFL-1.1
+- Includes Basic Latin and supplementary symbols
+- Regular weight only
